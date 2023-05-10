@@ -35,7 +35,6 @@ public class Intersection {
 
     }
 
-}
 
     // Method to check if it is safe to cross (green traffic light)
     public boolean isSafeToCross(int trafficLightNumber) {

@@ -25,15 +25,18 @@ public class TrafficLights {
 
     //Method to check if the traffic light is green
     public boolean isGreen() {
+
         return greenLight.isLightOn();
     }
 
     //Method to check if the traffic light is yellow
     public boolean isYellow() {
+
         return yellowLight.isLightOn();
     }
 
     public boolean isRed() {
+
         return redLight.isLightOn();
     }
 }
